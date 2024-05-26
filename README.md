@@ -130,12 +130,6 @@ Check the image preprocessing steps in the predict function to match the input d
 
 Yusuf
 
-## Acknowledgements
-
-This project was inspired by Fawaz Sammani
-
-Original project: [CNN_MNIST_Classify your own images.ipynb](https://github.com/fawazsammani/The-Complete-Neural-Networks-Bootcamp-Theory-Applications/blob/800169fa970df4637889b4eb8c2adfd7739419ce/CNN_MNIST_Classify%20your%20own%20images.ipynb)
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
